@@ -1,0 +1,96 @@
+
+
+<resources>
+    <string name="app_name">MyFitness App</string>
+    <string name="expand_button_content_description">Expand/Collapse</string>
+
+    <string name="day_tip_summary_1">Do 3 sets of 15 squats.</string>
+    <string name="day_tip_detail_1">Squats help to build leg muscles including quadriceps, hamstrings, and calves.</string>
+
+    <string name="day_tip_summary_2">Perform 3 sets of 12 push-ups.</string>
+    <string name="day_tip_detail_2">Push-ups work the chest, shoulders, and triceps.</string>
+
+    <string name="day_tip_summary_3">Complete 2 sets of 10 lunges on each leg.</string>
+    <string name="day_tip_detail_3">Lunges target the quadriceps, hamstrings, and glutes.</string>
+
+    <string name="day_tip_summary_4">Hold a plank for 1 minute.</string>
+    <string name="day_tip_detail_4">Planks strengthen the core, shoulders, and hips.</string>
+
+    <string name="day_tip_summary_5">Do 3 sets of 30 jumping jacks.</string>
+    <string name="day_tip_detail_5">Jumping jacks are a good cardio exercise and work multiple muscle groups.</string>
+
+    <string name="day_tip_summary_6">Complete 2 sets of 10 burpees.</string>
+    <string name="day_tip_detail_6">Burpees are a full-body exercise that improve strength and aerobic endurance.</string>
+
+    <string name="day_tip_summary_7">Do 3 sets of 15 sit-ups.</string>
+    <string name="day_tip_detail_7">Sit-ups primarily target the abdominal muscles and the obliques.</string>
+
+    <string name="day_tip_summary_8">Perform mountain climbers for 1 minute.</string>
+    <string name="day_tip_detail_8">Mountain climbers work several different muscles including the deltoids, biceps, triceps, chest, obliques, abdominals, quads, hamstrings, and hips.</string>
+
+    <string name="day_tip_summary_9">Complete 3 sets of 10 leg raises.</string>
+    <string name="day_tip_detail_9">Leg raises help to strengthen the abs and the hip flexors.</string>
+
+    <string name="day_tip_summary_10">Run in place with high knees for 2 minutes.</string>
+    <string name="day_tip_detail_10">High knees improve coordination, strengthen the leg muscles, and increase your heart rate.</string>
+
+    <string name="day_tip_summary_11">Do 3 sets of 20 Russian twists.</string>
+    <string name="day_tip_detail_11">Russian twists target the abdominal muscles, specifically the obliques, and also engage the lower back.</string>
+
+    <string name="day_tip_summary_12">Perform 3 sets of 12 tricep dips.</string>
+    <string name="day_tip_detail_12">Tricep dips target the triceps, along with the shoulders, chest, and back.</string>
+
+    <string name="day_tip_summary_13">Hold a side plank for 30 seconds on each side.</string>
+    <string name="day_tip_detail_13">Side planks strengthen the obliques, shoulders, and legs.</string>
+
+    <string name="day_tip_summary_14">Do 2 sets of 1-minute arm circles.</string>
+    <string name="day_tip_detail_14">Arm circles are a great way to strengthen and tone the shoulders and arms.</string>
+
+    <string name="day_tip_summary_15">Perform 3 sets of 20 flutter kicks.</string>
+    <string name="day_tip_detail_15">Flutter kicks are a challenging core exercise that targets the lower abdominal muscles.</string>
+
+    <string name="day_tip_summary_16">Complete 3 sets of 10 box jumps.</string>
+    <string name="day_tip_detail_16">Box jumps are a plyometric exercise that improves strength, speed, and cardiovascular health.</string>
+
+    <string name="day_tip_summary_17">Do 3 sets of 15 bicycle crunches.</string>
+    <string name="day_tip_detail_17">Bicycle crunches engage the abs, obliques, and hip flexors, and are great for building core strength.</string>
+
+    <string name="day_tip_summary_18">Perform 2 sets of 15 step-ups for each leg.</string>
+    <string name="day_tip_detail_18">Step-ups strengthen the legs and glutes, and can improve balance and coordination.</string>
+
+    <string name="day_tip_summary_19">Complete 3 sets of 10 squat jumps.</string>
+    <string name="day_tip_detail_19">Squat jumps increase your explosive power, improve upper and lower body strength, and burn calories.</string>
+
+    <string name="day_tip_summary_20">Do 4 sets of 20 calf raises.</string>
+    <string name="day_tip_detail_20">Calf raises target the calf muscles, helping to improve ankle stability and leg strength.</string>
+
+    <string name="day_tip_summary_21">Perform 3 sets of 15 glute bridges.</string>
+    <string name="day_tip_detail_21">Glute bridges are effective for building lower body strength and activating the glutes and hamstrings.</string>
+
+    <string name="day_tip_summary_22">Do 3 sets of 15 supermans.</string>
+    <string name="day_tip_detail_22">Supermans strengthen the back, glutes, and hamstrings, and can help improve posture.</string>
+
+    <string name="day_tip_summary_23">Hold a wall sit for 2 minutes.</string>
+    <string name="day_tip_detail_23">Wall sits are an isometric exercise for building strength and endurance in the glutes, calves, quadriceps, hamstrings, and core.</string>
+
+    <string name="day_tip_summary_24">Complete 3 sets of 20 crunches.</string>
+    <string name="day_tip_detail_24">Crunches are a classic core exercise that primarily work the rectus abdominis muscle.</string>
+
+    <string name="day_tip_summary_25">Do 2 sets of 15 back extensions.</string>
+    <string name="day_tip_detail_25">Back extensions are a lower back exercise that improves the strength and stability of the spine.</string>
+
+    <string name="day_tip_summary_26">Perform as many pull-ups as you can in 2 sets.</string>
+    <string name="day_tip_detail_26">Pull-ups are a compound upper-body exercise that improve strength in the back, shoulders, and arms.</string>
+
+    <string name="day_tip_summary_27">Do as many chin-ups as you can in 2 sets.</string>
+    <string name="day_tip_detail_27">Chin-ups primarily work the biceps, back muscles, and shoulders.</string>
+
+    <string name="day_tip_summary_28">Complete 3 sets of 15 skater jumps.</string>
+    <string name="day_tip_detail_28">Skater jumps are a plyometric exercise that targets the legs and glutes, and improves lateral movement and balance.</string>
+
+    <string name="day_tip_summary_29">Do 3 sets of 10 tuck jumps.</string>
+    <string name="day_tip_detail_29">Tuck jumps are a high-intensity exercise that improve strength and power in the lower body.</string>
+
+    <string name="day_tip_summary_30">Spend 15 minutes stretching.</string>
+    <string name="day_tip_detail_30">Stretching can help improve flexibility and reduce muscle tightness and soreness.</string>
+</resources>
